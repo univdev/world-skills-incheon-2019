@@ -1,0 +1,43 @@
+{
+    "transportation_reservation": [
+        {
+            "id": 1,
+            "name": "김사장",
+            "transportation": 1,
+            "date": "2019-07-13",
+            "time": "06:00",
+            "member": {
+                "old": 1,
+                "adult": 3,
+                "kids": 30
+            },
+            "price": 252000
+        },
+        {
+            "id": 2,
+            "name": "유관광",
+            "transportation": 3,
+            "date": "2019-07-19",
+            "time": "06:00",
+            "member": {
+                "old": 0,
+                "adult": 3,
+                "kids": 0
+            },
+            "price": 288000
+        },
+        {
+            "id": 3,
+            "name": "박여행",
+            "transportation": 2,
+            "date": "2019-07-19",
+            "time": "06:00",
+            "member": {
+                "old": 2,
+                "adult": 0,
+                "kids": 0
+            },
+            "price": 78000
+        }
+    ]
+}
